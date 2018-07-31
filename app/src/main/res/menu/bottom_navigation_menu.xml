@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_backarrow"
+        android:icon="@drawable/back_icon"
+        android:title="Back"
+        />
+
+    <item
+        android:id="@+id/ic_popular"
+        android:icon="@drawable/popular_icon"
+        android:title="Popular"
+        />
+
+    <item
+        android:id="@+id/ic_nowplaying"
+        android:icon="@drawable/np_icon"
+        android:title="Now Playing"
+        />
+
+    <item
+        android:id="@+id/ic_upcoming"
+        android:icon="@drawable/upcoming_icon"
+        android:title="Up Coming"
+        />
+
+</menu>
